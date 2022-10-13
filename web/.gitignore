@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+.nyc_output
+
+#cypress
+cypress/videos
+cypress/screenshots
